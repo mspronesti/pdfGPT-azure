@@ -22,7 +22,7 @@ A porting of [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) to Azure OpenAI.
 Run `docker-compose -f docker-compose.yaml up` to use it with Docker compose.
 
 
-## Use `pdfGPT-azure` on Production using [langchain-serve](https://github.com/jina-ai/langchain-serve)
+## Use `pdfGPT-azure` in production using [langchain-serve](https://github.com/jina-ai/langchain-serve)
 
 #### Local playground
 1. Run `lc-serve deploy local api` on one terminal to expose the app as API using langchain-serve.
